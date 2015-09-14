@@ -57,6 +57,8 @@ $(function()
 			phone:   {required: false,}
 		},
 		submitHandler: function(form) {
+			console.log('form=',form);
+            alert($form);
 			sendForm(form);
 		}
 	});
@@ -73,6 +75,8 @@ $(function()
 			phone:   {required: false,}
 		},
 		submitHandler: function(form) {
+			console.log('form=',form);
+            alert($form);
 			sendForm(form);
 		}
 	});
@@ -89,6 +93,8 @@ $(function()
 			phone:   {required: false,}
 		},
 		submitHandler: function(form) {
+			console.log('form=',form);
+            alert($form);
 			sendForm(form);
 		}
 	});
