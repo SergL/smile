@@ -446,7 +446,7 @@ font-weight: 700;
 {
 margin: 100px auto 70px auto;
 width: 960px;
-height: 840px;
+height: 740px;
 }
 
 .clinic_box
@@ -465,17 +465,17 @@ height: 840px;
 color: #494949;
 font-family: 'Roboto';
 font-weight: 300;
-line-height: 20px;
-font-size: 17px;
+line-height: 23px;
+font-size: 22px;
 }
 
 .clinic_slide p
 {
-font-size: 20px;
-line-height: 20px;
-color: #3a393c;
+font-size: 25px;
+line-height: 23px;
+color: #001DFF;
 font-family: 'Roboto';
-padding: 250px 0px 14px 0px;
+padding: 150px 0px 14px 0px;
 font-weight: 400;
 }
 
@@ -512,7 +512,7 @@ background-color: #999999;
 position: absolute;
 top: 505px;
 left: 140px;
-background-image: url(img/miniphoto7.jpg);
+background-image: url(img/miniphoto2.jpg);
 background-position: bottom;
 z-index: 100;
 }
@@ -525,7 +525,7 @@ background-color: #999999;
 position: absolute;
 top: 505px;
 left: 280px;
-background-image: url(img/miniphoto15.jpg);
+background-image: url(img/miniphoto3.jpg);
 background-position: bottom;
 z-index: 100;
 }
@@ -538,7 +538,7 @@ background-color: #999999;
 position: absolute;
 top: 505px;
 left: 420px;
-background-image: url(img/miniphoto14.jpg);
+background-image: url(img/miniphoto4.jpg);
 background-position: bottom;
 z-index: 100;
 }
@@ -551,7 +551,7 @@ background-color: #999999;
 position: absolute;
 top: 505px;
 left: 560px;
-background-image: url(img/miniphoto6.jpg);
+background-image: url(img/miniphoto5.jpg);
 background-position: bottom;
 z-index: 100;
 }
@@ -564,12 +564,12 @@ background-color: #999999;
 position: absolute;
 top: 505px;
 left: 700px;
-background-image: url(img/miniphoto3.jpg);
+background-image: url(img/miniphoto6.jpg);
 background-position: bottom;
 z-index: 100;
 }
 
-.cs_mini_g
+/*.cs_mini_g
 {
 width: 130px;
 height: 100px;
@@ -723,8 +723,7 @@ left: 700px;
 background-image: url(img/miniphoto18.jpg);
 background-position: bottom;
 z-index: 100;
-}
-
+}/
 
 .csminiactive
 {
@@ -1121,7 +1120,7 @@ padding: 10px 70px;
 margin: 0px auto 25px auto;
 width: 904px;
 padding: 25px;
-border: 3px solid #acacac;
+border: 5px solid #003C8A;
 background-image: url(img/rew_back.png);
 background-repeat: no-repeat;
 background-position: 0px 70px;
@@ -1134,7 +1133,7 @@ height: 85px;
 background-repeat: no-repeat;
 background-position: left top;
 padding-left: 135px;
-padding-top: 20px;
+padding-top: 32px;
 color: #4b4747;
 font-family: 'Roboto';
 font-style: italic;
@@ -1145,9 +1144,9 @@ margin-bottom: 25px;
 
 .rew_box p
 {
-font-size: 16px;
+font-size: 19px;
 font-family: 'Roboto';
-line-height: 20px;
+line-height: 27px;
 padding-bottom: 10px;
 font-weight: 300;
 }
@@ -1339,7 +1338,7 @@ margin: 0 auto;
 max-width: 2000px;
 min-width: 960px;
 height: 188px;
-background-color: #ec7e1f;
+background-color: #0B9C00;
 color: #FFFFFF;
 font-size: 70px;
 line-height: 70px;
@@ -1354,7 +1353,7 @@ padding-top: 30px;
 margin: 0 auto;
 width: 960px;
 height: 780px;
-background-image: url(img/us_back.jpg);
+background-image: url(img/us_back.png);
 background-repeat: no-repeat;
 background-position: center 228px;
 position: relative;
@@ -1406,9 +1405,9 @@ font-weight: 700;
 font-size: 34px;
 color: #FFFFFF;
 margin-top: 25px;
-background-color: #e39315;
+background-color: #0B9C00;
 border: none;
-box-shadow: 0px 8px 0px 0px #cc6d1b;
+box-shadow: 0px 8px 8px 0px #276300;
 border-radius: 7px; 
 -webkit-border-radius: 7px; 
 -moz-border-radius: 7px;
@@ -1439,11 +1438,11 @@ color: #7d7979;
 font-weight: 400;
 }
 
-.usba {top: 405px; left: 22px;}
-.usbb {top: 405px; left: 217px;}
-.usbc {top: 405px; left: 418px;}
-.usbd {top: 405px; left: 628px;}
-.usbe {top: 405px; left: 780px;}
+.usba {top: 405px; left: 122px;}
+.usbb {top: 405px; left: 317px;}
+.usbc {top: 405px; left: 518px;}
+.usbd {top: 405px; left: 728px;}
+/*.usbe {top: 405px; left: 780px;}*/
 
 /**********************************************************************************/
 
@@ -1453,7 +1452,7 @@ margin: 0 auto;
 max-width: 2000px;
 min-width: 960px;
 height: 150px;
-background-color: #f0b10e;
+background-color: #ffae00;
 line-height: 150px;
 color: #FFFFFF;
 font-size: 70px;
@@ -1479,7 +1478,7 @@ margin: 0 auto;
 max-width: 2000px;
 min-width: 960px;
 height: 425px;
-background-color: #f0b10e;
+background-color: #ffae00;
 position: relative;
 }
 
@@ -1495,7 +1494,7 @@ margin-top: 45px;
 float: left;
 width: 305px;
 height: 255px;
-background-image: url(img/fico1.png);
+background-image: url(img/fico1_1.png);
 background-repeat: no-repeat;
 background-position: left top;
 color: #000;
@@ -1503,7 +1502,7 @@ font-size: 18px;
 line-height: 22px;
 padding-left: 185px;
 font-family: 'Roboto';
-font-weight: 300;
+font-weight: 400;
 }
 
 .footer_left span
@@ -1528,7 +1527,7 @@ font-size: 18px;
 line-height: 22px;
 padding-left: 185px;
 font-family: 'Roboto';
-font-weight: 300;
+font-weight: 400;
 }
 
 .footer_right span
@@ -1555,7 +1554,7 @@ padding-top: 33px;
 font-size: 20px;
 line-height: 20px;
 font-family: 'Roboto';
-font-weight: 300;
+font-weight: 900;
 }
 
 .footer_adress p
